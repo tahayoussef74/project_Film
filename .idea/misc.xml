@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CineWatch-master/app/src/main/res/layout/activity_main.xml" value="0.22282608695652173" />
+        <entry key="..\:/CineWatch-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.22282608695652173" />
+        <entry key="..\:/CineWatch-master/app/src/main/res/layout/fragment_actor_details.xml" value="0.22282608695652173" />
+        <entry key="..\:/CineWatch-master/app/src/main/res/layout/fragment_bookmark.xml" value="0.22282608695652173" />
+        <entry key="..\:/CineWatch-master/app/src/main/res/layout/fragment_search.xml" value="0.22282608695652173" />
+        <entry key="..\:/CineWatch-master/app/src/main/res/layout/fragment_view_all.xml" value="0.22282608695652173" />
+        <entry key="..\:/CineWatch-master/app/src/main/res/layout/item_cast.xml" value="0.22282608695652173" />
+        <entry key="..\:/CineWatch-master/app/src/main/res/layout/item_movie_home.xml" value="0.22282608695652173" />
+        <entry key="..\:/CineWatch-master/app/src/main/res/layout/item_similar_movie.xml" value="0.22282608695652173" />
+        <entry key="..\:/CineWatch-master/app/src/main/res/layout/item_view_pager_card.xml" value="0.22282608695652173" />
+        <entry key="..\:/CineWatch-master/app/src/main/res/layout/video_dialog.xml" value="0.22282608695652173" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
